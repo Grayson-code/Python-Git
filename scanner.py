@@ -1,5 +1,8 @@
 #!/bin/python3
 
+# Scans for open ports
+# ! Just a Test file dont use it ! its terrible
+
 import sys # allows us to enter command line args
 import socket
 from datetime import datetime
